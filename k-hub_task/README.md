@@ -35,7 +35,7 @@ MongoDB Atlas account (for database)
 <ol>
   <li>Clone the repository: </br>
   ```
-  git clone https://github.com/your-username/todo-app.git
+  git clone https://github.com/revanth203/k-hub_task.git
   ```
 </li>
 <li>Navigate to the directory:
